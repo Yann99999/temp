@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://imagens-cdn.canalrural.com.br/2019/07/2019-07-05.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+button{
+    border-radius: 2px;
+    width: 100px;
+    height: 50px;
+    margin: 7px;
+}
+button:active{
+    transform: scale(0.9);
+}
+span{
+    background-color: greenyellow;
+    margin: 4px;
+    width: 60px;
+    height: 60px;
+}
+div{
+    background-color: coral;
+    width: 490px;
+    height: 90px;
+    box-shadow: 20 20 30px black;
+}
+input{
+    margin-left: 10px  ;
+    border-radius: 2px;
+}
